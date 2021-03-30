@@ -9,6 +9,6 @@ CT이미지를 학습하여 출혈인지 판단
 파이썬 중급
 ## 획득 Badge
 Image Data 가공 초급, 딥러닝 초급
-
 ## List of Missions
- 
+Mission1: 데이터들을 분석하고 학습을 위한 최적의 형태로 가공하라. 
+Mission2: 모델을 만들어서 학습시키고 정확도를 평가하라.
