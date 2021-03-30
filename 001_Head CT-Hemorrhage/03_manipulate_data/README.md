@@ -1,4 +1,4 @@
-{"type":"mission","id":"1","description":"data store"}
+{"type":"mission","id":"3","description":"data manipulation"}
 ## 데이터 가공
 이미지의 정확도를 높이기 위해서 여러가지 방법으로 가공하라. 주어진 팁 이외에도 여러가지 방법을 알아내어 시도하라. 그리고 샘플로 몇 개를 출력하라.
 ## tip
