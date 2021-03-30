@@ -1,4 +1,4 @@
-{"type":"mission","id":"1","description":"data store"}
+{"type":"mission","id":"2","description":"data analysis"}
 ## 데이터 분석
 ct이미지와 labels.csv의 데이터들을 히스토그램으로 출력하여 분석한다.
 ## 키워드
