@@ -10,4 +10,4 @@ ImageDataGenerator
 ## 평가
 * 추가 데이터를 생성했는가?
 * 이미지를 출력했는가?
-* ImageDataGenerator의 많은 옵션을 숙지하였는가? (멘토의 관찰 및 확인을 위한 간단한 질의 응답 필요)
+* ImageDataGenerator의 옵션들을 숙지하였는가? (멘토의 관찰 및 확인을 위한 간단한 질의 응답 필요)
