@@ -1,1 +1,1 @@
-CT 이미지 파일과 label.csv 파일입니다.
+CT 이미지 파일과 labels.csv 파일입니다.
