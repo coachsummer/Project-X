@@ -13,3 +13,4 @@ image to numpy array, opencv, train_test_split
 ## 평가
 1. 모든 이미지 데이터의 크기를 동일하게 변환하였는가?
 2. 샘플을 출력하였는가?
+3. 데이터를 train, validation, test로 나누었는가?
