@@ -5,3 +5,4 @@
 ImageDataGenerator
 ## 평가
 이 미션을 수행했는가?
+ImageDataGenerator의 많은 옵션을 숙지하였는가? (멘토의 관찰 및 확인을 위한 간단한 질의 응답 필요)
