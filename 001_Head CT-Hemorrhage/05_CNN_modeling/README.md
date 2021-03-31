@@ -1,4 +1,4 @@
-{"type":"mission","id":"6","description":"CNN modeling"}
+{"type":"mission","id":"5","description":"CNN modeling"}
 ## 모델링
 CNN으로 모델링하라. 여러 개의 Conv Layer를 사용해 보고 최적의 모델링을 하라.
 ## 평가
