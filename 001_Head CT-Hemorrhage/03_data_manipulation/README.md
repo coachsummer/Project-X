@@ -7,6 +7,7 @@
 ## 추가데이터 확보
 데이터 변환으로 추가데이터를 확보한다는 것은 train과 validation 데이터를 가공하여 추가 데이터를 확보한다는 의미이다.
 test데이터는 가공할 이유가 없으므로 추가데이터 확보는 반드시 데이터를 train과 test로 구분하고 난 뒤에 한다.
+이 작업음 04_image_data_generator에서 진행한다.
 ## 키워드
 image to numpy array, opencv, train_test_split
 
