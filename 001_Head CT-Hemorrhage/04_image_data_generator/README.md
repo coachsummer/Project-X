@@ -5,7 +5,7 @@ test데이터는 가공할 이유가 없으므로 추가데이터 확보는 반�
 * 이미지를 여러 방법으로 변형시켜 더 많은 데이터를 생성하라.
 * ImageDataGenerator를 사용하라.
 * 이미지를 출력하여 확인하라.
-* ImageDateGenerator의 인수 rescale, shear_range, rotation_range, width_shift_range, height_shift_range, horizontal_flip에 대해서 자세히 공부하고, 팀원들 인수들을 분할하여 서로 설명하라.
+* ImageDateGenerator의 인수 rescale, shear_range, rotation_range, width_shift_range, height_shift_range, horizontal_flip에 대해서 자세히 공부하고, 팀원들과 앞에서 제시한 인수들을 분할하여 서로 설명하라.
 ## 키워드
 ImageDataGenerator
 ## 평가
