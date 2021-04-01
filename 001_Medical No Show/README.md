@@ -21,6 +21,7 @@ Text Data 인공지능 초급, 머신러닝 초급
 * 모델링 결과 발표 동영상
 
 ## 데이터
+* medical no show.csv
 * PatientId: 환자 ID
 * AppointmentID: 예약 ID
 * Gender: 성별
