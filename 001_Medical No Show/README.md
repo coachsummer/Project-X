@@ -1,4 +1,4 @@
-{"type":"top", "level":"1", "id":"2", "description":"Analysis Patient No-Show"}
+{"type":"top", "level":"1", "id":"2", "description":"Medical No Show"}
 
 ## 과제목표
 1. 주어진 데이터를 분석하고, 모델링하라.
@@ -7,7 +7,7 @@
 ## 보유하고 있어야 할 badge
 파이썬 중급
 ## 획득 Badge
-text Data 가공 초급, 머신러닝 초급
+Text Data 가공 초급, 머신러닝 초급
 ## List of Missions
 * 데이터 저장 및 읽기
 * 데이터 확인 및 준비하기
