@@ -5,6 +5,9 @@
 2. 모델을 훈련시켜라.
 3. relu, maxpooling, sigmoid, binary_crossentropy에 대해서 조사하고 발표하라.
 
+## 결과물
+* 발표 동영상
+
 ## 키워드
 CNN 기초
 
