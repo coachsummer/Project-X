@@ -1,4 +1,4 @@
-{"type":"top", "level":"1", "id":"2", "description":"Help the doctors"}
+{"type":"top", "level":"1", "id":"2", "description":"Head CT-Hemorrhage"}
 
 ## 과제목표
 CT이미지를 학습하여 뇌출혈인지 판단하라.
@@ -10,5 +10,9 @@ CT이미지를 학습하여 뇌출혈인지 판단하라.
 ## 획득 Badge
 Image Data 가공 초급, 딥러닝 초급
 ## List of Missions
-* 뇌출혈 이미지 데이터들을 분석하고 학습을 위한 최적의 형태로 가공하라. 
-* 모델을 학습시켜서 뇌출혈 여부를 판단하라.
+1. 데이터 저장 및 읽기
+2. 데이터 분석
+3. 데이터 나누기
+4. 이미지 변형
+5. 모델링
+6. 평가 
