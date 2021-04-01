@@ -5,7 +5,7 @@
 
 ## 결과물
 * 코드
-* 발표 동영상
+* 모델링 결과 발표 동영상
 
 ## 키워드
 Decision Tree Classifier, Random Forest Classfier, Grid Search CV, Bayes Classifier, XGBoost, Logistic Regression
