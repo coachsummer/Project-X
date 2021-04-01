@@ -12,7 +12,8 @@ Decision Tree Classifier, Random Forest Classfier, Grid Search CV, Bayes Classif
 
 ## 평가
 * 많은 알고리즘으로 모델링할 수록 높은 점수 부여
-* score가 가장 높은 순서대로 높은 점수 부여
+* score가 높은 순서대로 높은 점수 부여
+* 발표를 잘할수록 높은 점수 부여
 * 알고리즘에 대해서 잘 설명한 순서대로 높은 점수 부여
 
  
