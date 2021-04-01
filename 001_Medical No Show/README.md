@@ -7,7 +7,7 @@
 ## 보유하고 있어야 할 badge
 파이썬 중급
 ## 획득 Badge
-Text Data 가공 초급, 머신러닝 초급
+Text Data 인공지능 초급, 머신러닝 초급
 ## List of Missions
 1. 데이터 저장 및 읽기
 2. 데이터 확인 및 준비하기
