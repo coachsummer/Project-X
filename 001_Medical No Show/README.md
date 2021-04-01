@@ -19,3 +19,19 @@ Text Data 인공지능 초급, 머신러닝 초급
 * 데이터 분석 발표 동영상
 * 코드
 * 모델링 결과 발표 동영상
+
+## 데이터
+* PatientId: 환자 ID
+* AppointmentID: 예약 ID
+* Gender: 성별
+* DataMarcacaoConsulta: 예약날짜
+* DataAgendamento: 예약등록 날짜
+* Age: 나이
+* Neighbourhood: 예약지역
+* Scholarship: 가난한 계층에게 지급되는 장학금
+* Hipertension: 고혈압
+* Diabetes: 당뇨병
+* Alcoholism: 알콜중독
+* Handcap: 장애
+* SMS_received: 환자에게 보낸 메세지
+* No-show: 예약펑크
