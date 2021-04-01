@@ -1,7 +1,14 @@
-{"type":"mission","id":"1","description":"data store"}
-## 데이터 준비 
-구글드라이브에 ct이미지 데이터와 labels.csv를 저장하고 구글 드라이브를 코랩에서 사용할 있도록 마운트하라.
+{"type":"mission","id":"4","description":"Modeling"}
+## 모델링 
+* 데이터를 2개 이상의 알고리즘으로 모델링하고 score를 확인하라. 
+* 팀원들 앞에서 사용한 알고리즘을 간단히 설명하고 모델링 결과를 설명하라.
+
+## 키워드
+Decision Tree Classifier, Random Forest Classfier, Grid Search CV, Bayes Classifier, XGBoost, Logistic Regression
+
 ## 평가
-try except의 사용으로 데이터 엑세스 에러에 대처했는가?
+* 많은 알고리즘으로 모델링할 수록 높은 점수 부여
+* score가 가장 높은 순서대로 높은 점수 부여
+* 알고리즘에 대해서 잘 설명한 순서대로 높은 점수 부여
 
  
