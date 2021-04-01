@@ -1,4 +1,4 @@
-{"type":"top", "level":"1", "id":"2", "description":"Medical No Show"}
+{"type":"top", "level":"1", "id":"1", "description":"Medical No Show"}
 
 ## 과제목표
 주어진 데이터를 분석하고, 모델링하라.
