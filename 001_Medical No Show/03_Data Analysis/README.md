@@ -1,7 +1,13 @@
-{"type":"mission","id":"1","description":"data store"}
-## 데이터 준비 
-구글드라이브에 ct이미지 데이터와 labels.csv를 저장하고 구글 드라이브를 코랩에서 사용할 있도록 마운트하라.
+{"type":"mission","id":"3","description":"Data Analysis"}
+## 데이터 분석
+* 데이터들을 그래프로 그리고 분석하여 본인의 의견을 적는다.
+* 분석한 보고서를 팀원들 앞에서 발표한다.
+
+## 키워드
+matplotlib, seaborn
+
 ## 평가
-try except의 사용으로 데이터 엑세스 에러에 대처했는가?
+* 많은 데이터를 분석할 수록 높은 점수 부여
+* 발표 잘한 사람에게 약간의 추가 점수 부여
 
  
