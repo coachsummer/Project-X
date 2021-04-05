@@ -8,7 +8,7 @@ CT이미지를 학습하여 뇌출혈인지 판단하라.
 ## 보유하고 있어야 할 badge
 파이썬 문법 중급, 파이썬 데이터 가공 중급 (numpy, pandas 등), 파이썬 그래프 가공 중급 (matplotlib, seaborn 등), 인공지능 알고리즘 초급
 ## 획득 Badge
-Image Data 가공 초급, Image Data 인공지능 초급, 딥러닝 초급, CNN 초급
+인공지능을 위한 Image Data 가공 및 해석 초급, 딥러닝 초급, CNN 초급
 ## List of Missions
 1. 데이터 저장 및 읽기 (1일차)
 2. 데이터 분석 (1일차)
