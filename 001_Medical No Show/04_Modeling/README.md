@@ -15,5 +15,7 @@ Decision Tree Classifier, Random Forest Classfier, Grid Search CV, Bayes Classif
 * score가 높은 순서대로 높은 점수 부여
 * 발표를 잘할수록 높은 점수 부여
 * 알고리즘에 대해서 잘 설명한 순서대로 높은 점수 부여
-
- 
+* 퀴즈1: 모델의 학습을 위해 data type이 object인 것을 숫자 값으로 변환해 주어야 한다. 어떤 메소드를 어떻게 사용해야 하는지 서술하라.
+* 정답1: sklearn의 labelEncoder()와 fit_transform()을 사용하여 범주형 데이터를 정수형 유효값으로 치환한다.
+* 퀴즈2: 모델의 정확도를 측정하기 위해 사용하는 메소드는?
+* 정답2: score()
