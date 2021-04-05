@@ -7,7 +7,7 @@
 ## 보유하고 있어야 할 badge
 파이썬 문법 중급, 파이썬 데이터 가공 중급 (numpy, pandas), 파이썬 그래프 가공 중급 (matplotlib, seaborn)
 ## 획득 Badge
-Text Data 인공지능 초급, 머신러닝 초급, 데이터 분석 초급
+인공지능을 위한 Text Data 가공 중급, 머신러닝 초급, 데이터 분석 초급
 ## List of Missions
 1. 데이터 저장 및 읽기 (1일차)
 2. 데이터 확인 및 준비하기 (1일차, 2일차)
