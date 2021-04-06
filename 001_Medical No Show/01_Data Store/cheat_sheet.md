@@ -1,4 +1,4 @@
-{"type":"mission","id":"1","description":"Date Store"}
+{"target":"mento", "type":"mission","id":"1","description":"Date Store"}
 
 # Only for mento
 
