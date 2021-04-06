@@ -1,4 +1,5 @@
 {"type":"mission","id":"2","description":"Data Explore & Preprocess"}
+# Only for mento
 ## 데이터 탐색 및 전처리 
 * 데이터에는 오타가 존재한다. 오타를 고쳐라.
 * 학습에 필요 없는 데이터가 있으면 삭제하라.
