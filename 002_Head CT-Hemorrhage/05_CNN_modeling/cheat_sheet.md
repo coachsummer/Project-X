@@ -1,4 +1,5 @@
 {"type":"mission","id":"5","description":"CNN modeling"}
+# Only for mento
 ## 모델링
 * CNN 기초를 공부한다. 구현 중심으로 코드를 주로 공부할 것.
 * CNN으로 모델을 만들어라. 여러 개의 Conv Layer를 사용해 보고 최적의 모델링을 하라.
