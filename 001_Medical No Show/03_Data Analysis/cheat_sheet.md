@@ -1,4 +1,4 @@
-{"type":"mission","id":"3","description":"Data Analysis"}
+{"target":"mento", "type":"mission","id":"3","description":"Data Analysis"}
 # Only for mento
 ## 데이터 분석
 * 데이터들을 그래프로 그리고 분석하여 본인의 의견을 적는다.
