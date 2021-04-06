@@ -8,4 +8,4 @@
 * 데이터 분석 발표 동영상
 
 ## 키워드
-matplotlib, seaborn
+matplotlib, seaborn, data analysis
