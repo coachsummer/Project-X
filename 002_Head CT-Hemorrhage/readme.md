@@ -6,9 +6,10 @@ CT이미지를 학습하여 뇌출혈인지 판단하라.
 우리 병원의 의사들은 많은 업무를 수행하기 때문에 항상 잠이 모자라며 과중한 피로에 시달린다. 그래서인지 의사들의 실수도 점점 증가하고 있다. 
 병원장은 의사들의 과중한 업무를 조금이라도 줄이기 위해서 인공지능을 도입하기로 했다.
 ## 보유하고 있어야 할 badge
-파이썬 문법 중급, 파이썬 데이터 가공 중급 (numpy, pandas 등), 파이썬 그래프 가공 중급 (matplotlib, seaborn 등), 인공지능 알고리즘 초급
+python, numpy, pandas, matplotlib, machine learning
 ## 획득 Badge
-인공지능을 위한 Image Data 가공 및 해석 초급, 딥러닝 초급, CNN 초급
+image classification, deep learning
+
 ## List of Missions
 1. 데이터 저장 및 읽기 (1일차)
 2. 데이터 분석 (1일차)
