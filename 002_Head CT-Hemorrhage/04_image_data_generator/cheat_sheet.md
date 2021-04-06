@@ -1,4 +1,4 @@
-{"type":"mission","id":"4","description":"image_data_generator"}
+{"target":"mento", "type":"mission","id":"4","description":"image_data_generator"}
 # Only for mento
 ## 이미지 변형 기법
 * 데이터 변환으로 추가데이터를 확보한다는 것은 train과 validation 데이터를 가공하여 추가 데이터를 확보한다는 의미이다.
