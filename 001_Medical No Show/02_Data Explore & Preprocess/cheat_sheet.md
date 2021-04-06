@@ -1,4 +1,4 @@
-{"type":"mission","id":"2","description":"Data Explore & Preprocess"}
+{"target":"mento", "type":"mission","id":"2","description":"Data Explore & Preprocess"}
 # Only for mento
 ## 데이터 탐색 및 전처리 
 * 데이터에는 오타가 존재한다. 오타를 고쳐라.
