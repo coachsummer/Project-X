@@ -12,6 +12,3 @@ ImageDateGenerator의 발표 동영상
 ## 키워드
 ImageDataGenerator
 
-## 평가
-* ImageDateGenerator를 사용하였는가?
-* 발표를 잘할 수록 높은 점수 부여
