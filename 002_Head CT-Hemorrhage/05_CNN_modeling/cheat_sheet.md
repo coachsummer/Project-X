@@ -1,4 +1,4 @@
-{"type":"mission","id":"5","description":"CNN modeling"}
+{"target":"mento", "type":"mission","id":"5","description":"CNN modeling"}
 # Only for mento
 ## 모델링
 * CNN 기초를 공부한다. 구현 중심으로 코드를 주로 공부할 것.
