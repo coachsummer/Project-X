@@ -9,7 +9,7 @@
 * 데이터 분석 발표 동영상
 
 ## 키워드
-matplotlib, seaborn
+matplotlib, seaborn, data analysis
 
 ## 평가
 * 많은 데이터를 분석할수록 높은 점수 부여
