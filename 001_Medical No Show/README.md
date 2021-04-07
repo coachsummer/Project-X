@@ -8,6 +8,13 @@
 python, numpy, pandas, matpolib
 ## 획득 Badge
 data analysis, machine learning
+
+## PSI 역량
+### 수준구분
+AI/Data분석/Edu4
+AI/모델개발/Edu4
+AI/AIOps/Edu4
+
 ## List of Missions
 1. 데이터 저장 및 읽기 (1일차)
 2. 데이터 확인 및 준비하기 (1일차, 2일차)
@@ -36,3 +43,5 @@ data analysis, machine learning
 * Handcap: 장애
 * SMS_received: 환자에게 보낸 문자
 * No-show: 예약취소
+
+
