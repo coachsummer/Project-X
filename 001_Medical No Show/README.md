@@ -10,9 +10,9 @@ python, numpy, pandas, matpolib
 data analysis, machine learning
 
 ## PSI tech skill
-* 수준구분: AI/Data분석/Edu4, AI/모델개발/Edu4, AI/AIOps/Edu4
-* 지식스킬: python, Jupyter Notebook, tensorflow, numpy, pandas, scikit-learn, naive forest
-* 경험list_AI:
+### 수준구분: AI/Data분석/Edu4, AI/모델개발/Edu4, AI/AIOps/Edu4
+### 지식스킬: python, Jupyter Notebook, tensorflow, numpy, pandas, scikit-learn, naive forest
+### 경험list_AI:
 * Data분석(데이터 추출 및 가공 역량) - 수집된 데이터를 특정 포맷으로 가공하고 정렬할 수 있다, 수집된 데이터에서 잘못된 데이터를 찾아 수정 삭제할 수 있다, 수집된 데이터에서 불필요한 차원을 제거할 수 있다
 * Data분석(데이처 투론 역량) - 모집단으로부터 추출된 표본을 바탕으로 통계적 추론이 가능하다, 대용량의 자료에서 데이터의 관계, 패턴, 규칙을 탐색하고 활용할 수 있다, 모델링을 위한 성능 평가 지표를 정의하고 구현할 수 있다
 * Data분석(데이터 재가공 및 전산화 역량) - 데이터의 특성을 파악해, 수집된 데이터를 재 가공할 수 있다
