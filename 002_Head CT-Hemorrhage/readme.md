@@ -9,15 +9,14 @@ CT이미지를 학습하여 뇌출혈인지 판단하라.
 python, numpy, pandas, matplotlib, machine learning
 ## 획득 Badge
 image classification, deep learning
-## PSI - tech skill
-### 수준구분: AI/Data분석/Edu4, AI/모델개발/Edu4, AI/AIOps/Edu4
-### 지식스킬: python, Jupyter Notebook, tensorflow, numpy, pandas, scikit-learn, CNN
-### 경험list_AI:
+## 수준구분: AI/Data분석/Edu4, AI/모델개발/Edu4, AI/AIOps/Edu4
+## 지식스킬: python, Jupyter Notebook, tensorflow, numpy, pandas, scikit-learn, CNN
+## tech skill
 * AI모델개발(이미지관련 지식 이해력) - OpenCV 라이브러리만을 사용해서 이미지 뷰어(Crop, 흑백화, Zoom 등의 기능 포함)를 만들 수 있다. (02, 03)
 * AI모델개발(이미지 관련 단위 테스크 수행 역량) - 이미지 데이터에 가중치를 적용할 수 있다. (04)
 * AI모델개발(딥러닝 관련 프로젝트 수행역량-1) - CNN/MLP로 학습시킬 수 있다. (05)
 * AI모델개발(ml/dl/기초 지식 이해력) - 머신러닝과 관련된 공개된 학습모델(사이킷런 라이브러리의 문서 등)을 따라서 모델을 돌려볼 수 있다, 과적합에 대한 정의를 이해하고 설명할 수 있다. (06)
-## PSI - soft skill
+## soft skill
 * 비판적 사고/핵심 정보 파악/다양한 정보나 아이디어를 무작정 수용하지 않고, 업무에 도움이 되는 것과 그렇지 않은 것을 구별할 수 있다.
 * 비판적 사고/근본 원인 규명/ 문제 발생 시, 문제 해결을 위해 근본 원인을 해결할 수 있다.
 
